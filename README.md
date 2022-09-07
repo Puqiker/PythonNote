@@ -1,0 +1,2 @@
+# PythonNote
+Fuck Python
